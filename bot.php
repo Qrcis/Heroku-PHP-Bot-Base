@@ -35,7 +35,7 @@ if(!$ok){
 
 #-----------------------------#
 
-define('API_KEY', ''); # Bot Token
+define('API_KEY', '6193435103:AAHVkSSjj7Hu7PzUv9rdyOc7D48-dCVf19I'); # Bot Token
 $api = 'http://' . $_SERVER['SERVER_NAME'] . '/' . basename(__DIR__) . '/webApi.php'; # Dont Touch it
 
 #-----------------------------#
