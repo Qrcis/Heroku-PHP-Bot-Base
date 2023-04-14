@@ -14,7 +14,7 @@ $full_phone = "0$Phone";
 //============================================================================//
 //Check Error!
 if(empty($Phone)){
-echo "شماره ای موجود نیست!!!
+echo "شماره نیست!!!
 ";
 }else{
 function random($length, $type) {
