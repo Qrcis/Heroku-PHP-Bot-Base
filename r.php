@@ -1,6 +1,6 @@
 <?php
 //============================================================================//
-//Headers Setting
+//Headers Settin
 
 
 header("Content-Type: text/plain");
